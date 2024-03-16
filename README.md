@@ -1,0 +1,2 @@
+- activity main, themes.xml, splash_drawable.xml, manifest, mainactivity 고침
+- gachicar.png 다운 받으셔요
